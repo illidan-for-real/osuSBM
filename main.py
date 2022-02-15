@@ -1,6 +1,5 @@
 from ossapi import *
 # setting up api stuff
-api = OssapiV2(12285, 'iyYD4HgwSPEoSZVTmVEobnitg9Bq0q7vJzHaCZq1')
 limit = 30
 count = 0
 in_bm = input()
